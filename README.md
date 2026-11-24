@@ -18,7 +18,7 @@
 - 💻 **8+ years** building full-stack web and mobile products, from backend services and APIs to native and cross-platform apps
 - 📱 Apps shipped to the **App Store, Google Play, Windows Store and Snapcraft**
 - 🏗️ I care about clean architecture, automated tests and CI/CD that let teams ship with confidence
-- 🤖 Daily user of **AI-assisted development** (Claude Code, Copilot, Cursor, MCP)
+- 🤖 Daily user of **AI-assisted development** (Claude Code, Codex, Copilot, Cursor, MCP)
 - 🎮 Game developer at heart: currently building a **roguelite hack-and-slash in Godot 4**
 - 🌎 Based in Brazil · 🇧🇷 Portuguese · 🇺🇸 English
 
